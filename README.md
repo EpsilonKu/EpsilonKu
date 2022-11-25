@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... Nothing?
-- 🌱 I’m currently learning VueJS and Spring
-- ⚡ Fun fact: Nothing
+- 🔭 I’m currently working on ... My dotfiles?
+- 🌱 I’m currently learning SpringUs)
+- ⚡ My discord: Запяточка (EpsKu)[GMT+6]#7531
