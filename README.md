@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on ... My dotfiles?
 - 🌱 I’m currently learning SpringUs)
-- ⚡ My discord: Запяточка (EpsKu)[GMT+6]#7531
+- ⚡ My discord: epsilonku
