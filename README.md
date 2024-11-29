@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+[![wakatime](https://wakatime.com/badge/user/5e7b578f-0ef9-4a84-82cd-b0d685ddd12f.svg)](https://wakatime.com/@5e7b578f-0ef9-4a84-82cd-b0d685ddd12f)
 <!--
 **EpsilonKu/EpsilonKu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... My dotfiles?
-- 🌱 I’m currently learning SpringUs)
+- 🔭 I’m currently working on ... newm
 - ⚡ My discord: epsilonku
