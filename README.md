@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... newm
+- 🔭 I’m currently working on ... nvim-spectre
 - ⚡ My discord: epsilonku
