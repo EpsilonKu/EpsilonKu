@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🔭 I’m currently working on ... nvim-spectre
+- 🔭 I’m currently working on `nvim-spectre`
 - ⚡ My discord: epsilonku
+- 🌱 I'm learning `Magnum engine (why do I need it?)`
+- 📫 Feel free to yapp to my telegram: @EpsilonKu
